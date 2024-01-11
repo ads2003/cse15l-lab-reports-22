@@ -1,1 +1,1 @@
-*Italic*I am a math cs major.
+*I am a math cs major.*
