@@ -64,17 +64,27 @@ $ Is /nonexistent/directory
 ```
 $ cat
 ```
+<img width="200" alt="cat1" src="https://github.com/ads2003/cse15l-lab-reports/assets/156348741/5a00bfd1-bac0-4690-9df8-14fcd4b2b2da">
+
 **Working Directory: This command also does not change the working direcotry.**
 **Output Explanation: The behavior of the command depends on the  user input when cat command is used without arguments.**
 
 ```
-$ cat/path/to/file.txt
+$ cat/path/to/dir
 ```
+
+<img width="263" alt="cat2" src="https://github.com/ads2003/cse15l-lab-reports/assets/156348741/76eaa5ba-57e8-41bc-970b-b81f3209a745">
+
+
 **Working Directory: there is no change in the working directory.**
 **Output Explanation: The contents of the specifide file are displayed when this command is used.**
 
 ```
-$ cat/nonexistent/file.txt
+$ cat/nonexistent/dir
 ```
+
+<img width="292" alt="cat3" src="https://github.com/ads2003/cse15l-lab-reports/assets/156348741/200b493d-15eb-480a-98c1-f1a3e08cbad9">
+
+
 **Working Directory: The directory remains unchanged.**
 **Output Explanation: Because /nonexistent/file.txt does not exist, this causes an error.
