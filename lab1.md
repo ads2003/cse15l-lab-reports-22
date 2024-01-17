@@ -17,6 +17,8 @@ bash $ cd
 ```
 $cd /path/to/directory
 ```
+<img width="407" alt="cd2" src="https://github.com/ads2003/cse15l-lab-reports/assets/156348741/c77e7c8f-ef3f-454b-8c20-0710eb178ffd">
+
 **Working Directory: You now have /path/to/directory as the changed working directory.**
 
 **Output Explaination: You an now go to the go to the ddedsignated direcory by using cd with a  path as an argument.**
@@ -25,13 +27,17 @@ $cd /path/to/directory
 ```
 cd /nonexistent/directory
 ```
+<img width="332" alt="cd3" src="https://github.com/ads2003/cse15l-lab-reports/assets/156348741/66873789-ed5d-4157-a0d2-c8d9eb8c96e7">
+
 **Working Directory: The Working directory does not change with this command.**
 
 **Output Expanation: /nonexistent/directory does not exist,therefore it causes an error.**
 
 ```
-$ is
+$ ls
 ```
+<img width="204" alt="cd4" src="https://github.com/ads2003/cse15l-lab-reports/assets/156348741/05a0d870-a144-4188-8d83-c0644d01b701">
+
 **Working Directory: The files and directories in the current working directory are listed by this command.**
 
 **Output Explanation: The files and directories in the current directory will be shown in the output.**
@@ -39,12 +45,19 @@ $ is
 ```
 $ Is /path/to/directory
 ```
+
+<img width="284" alt="ls1" src="https://github.com/ads2003/cse15l-lab-reports/assets/156348741/4cae23b8-cda7-431a-8f95-1c099b20aff7">
+
+
 **Working Directory: The directory does not change after this command.**
 **Output Explanation: The contents of the specified directory are listed by this command.**
 
 ```
 $ Is /nonexistent/directory
 ```
+<img width="434" alt="ls2" src="https://github.com/ads2003/cse15l-lab-reports/assets/156348741/d2836509-49c8-4e8a-a256-82a16ec1be6d">
+
+
 **Working Directory: Again the Working directory is unchanged.**
 **Output Explanation: Due to nonexistence of the directory /nonexistent/directory does not exist.**
 
