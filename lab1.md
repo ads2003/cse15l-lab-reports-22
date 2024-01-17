@@ -8,7 +8,8 @@
 ```
 bash $ cd
 ```
-![Image](http://url/a.cd.png)
+<img width="240" alt="cd" src="https://github.com/ads2003/cse15l-lab-reports/assets/156348741/825e2d9a-502f-462b-a91c-dcfa1b59b61b">
+
 **Working Directory: There is no change in the working directory with this command.**
 
 **Output Explanation: You are taken to your home directory when you 'cd' without any arguments.**
