@@ -50,5 +50,10 @@ class ChatServer {
 <img width="401" alt="avani lab 2" src="https://github.com/ads2003/cse15l-lab-reports/assets/156348741/58e421f0-b141-4bfb-a820-e1c86b40a41b">
 
 <img width="590" alt="Aditya lab 2 r" src="https://github.com/ads2003/cse15l-lab-reports/assets/156348741/0090bcc0-0205-4818-8a85-af4a7159d005">
+
 **In the first of the two screenshots, the main function and handleRequest are called. The URL is the parameter to call handleRequest, and port 5001 is the argument to call the main function. The value of s is appended and a new line is added each time a new message is added via the website or after the survey is completed. In addition to moving to the next line each time, the new message is appended to the initial empty String s, where path[1] is the new message added.** 
+
+##Part 3(What did I learn till now)
+**Creating your first webpage from scratch. What software bugs and symptoms are. Primarily, I gained knowledge about junit testing, which is highly relevant to CSE programming assignments.**
+
 
