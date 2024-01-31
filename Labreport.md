@@ -53,7 +53,9 @@ class ChatServer {
 
 **In the first of the two screenshots, the main function and handleRequest are called. The URL is the parameter to call handleRequest, and port 5001 is the argument to call the main function. The value of s is appended and a new line is added each time a new message is added via the website or after the survey is completed. In addition to moving to the next line each time, the new message is appended to the initial empty String s, where path[1] is the new message added.** 
 
+
 ##Part 3(What did I learn till now)
+
 **Creating your first webpage from scratch. What software bugs and symptoms are. Primarily, I gained knowledge about junit testing, which is highly relevant to CSE programming assignments.**
 
 
