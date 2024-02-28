@@ -1,5 +1,6 @@
 # Lab Report 3 - Bugs and Commands (Week 5)
 ## Part 1
+Inputs inducing Failure 
 ```
 public void testReverseInPlace() {
     int[] input1 = { 3,4,5  };
@@ -7,7 +8,7 @@ public void testReverseInPlace() {
     assertArrayEquals(new int[]{ 5,4,3 }, input1);
 	}
 ```
-
+Inputs that are not causing failure 
 ```
  @Test
   public void testReverseInPlace() {
@@ -16,6 +17,10 @@ public void testReverseInPlace() {
     assertArrayEquals(new int[]{ 3 },(input1));
   }
 ```
+### Symptom 
+<img width="686" alt="Screenshot 2024-02-27 at 10 34 56 PM" src="https://github.com/ads2003/cse15l-lab-reports/assets/156348741/bcc0019e-a136-499b-a0b1-bbdcaa7752ff">
+
+Before fixing the bug
 ```
 static void reverseInPlace(int[] arr) {
     for(int i = 0; i < arr.length; i += 1) {
@@ -23,6 +28,7 @@ static void reverseInPlace(int[] arr) {
     }
   }
 ```
+After fixing the bug
 ```
 static void reverseInPlace(int[] arr) {
     for(int i = 0; i < arr.length/2; i += 1) {
@@ -31,6 +37,10 @@ static void reverseInPlace(int[] arr) {
     }
   }
 ```
+
+
+
+
 ## Part 2
 
 ### grep -c
