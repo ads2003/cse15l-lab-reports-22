@@ -32,3 +32,11 @@ I appreciate the recommendations. After giving the code a closer look, I saw tha
 
 <img width="739" alt="Screenshot 2024-03-12 at 8 32 27 PM" src="https://github.com/ads2003/cse15l-lab-reports/assets/156348741/55b98f1a-df42-45a4-8c0f-3f1d6589117d">
 
+## Description of the edit code 
+
+To fix the code I changed the code where 1 was added to the array length and removed the +1 
+
+## Part 2
+
+During the latter part of this quarter, I thoroughly acquired knowledge on using the vim command for editing. With this command, I discovered a variety of ways to alter my code and the keys I might hit to accomplish various tasks. 
+
