@@ -22,25 +22,26 @@ I compiled and ran the tests using Java and Javac, but they failed.
 ## Using vim for Editing the code
 
 <img width="978" alt="Screenshot 2024-03-11 at 3 38 16 PM" src="https://github.com/ads2003/cse15l-lab-reports/assets/156348741/3b30ce0a-9855-464c-b115-a8d364d4da35">
+
+ 
 made modifications to ListExamples.java using the vim command. Keys pressed: vim
 <space> ListExamples.java <enter>
 
-<img width="477" alt="Screenshot 2024-03-11 at 3 40 58 PM" src="https://github.com/ads2003/cse15l-lab-reports/assets/156348741/a583d2f1-414d-491d-adb7-780d92a650bd">
-
-Keys pressed: <down> for about 43 times to get to the error line and then <right> about 12 times to
+<img width="477" alt="Screenshot 2024-03-11 at 3 40 58 PM" src="https://github.com/ads2003/cse15l-lab-reports/assets/156348741/a583d2f1-414d-491d-adb7-780d92a650bd">   
+Keys pressed: "down" for about 43 times to get to the error line and then <right> about 12 times to
 get to the number 1 in index1 so that I could change it to 2.
 
-<img width="304" alt="Screenshot 2024-03-11 at 3 40 52 PM" src="https://github.com/ads2003/cse15l-lab-reports/assets/156348741/2fa11d7b-2fdc-4ae7-b2e4-19f3451846e6">
+<img width="304" alt="Screenshot 2024-03-11 at 3 40 52 PM" src="https://github.com/ads2003/cse15l-lab-reports/assets/156348741/2fa11d7b-2fdc-4ae7-b2e4-19f3451846e6">   
 
 Pressed keys: <esc><:wq><enter> I enter command mode by using the esc key, which is followed by the <:wq> key, which writes and ends vim, and the <enter> key, which essentially saves the changes made to the file and exits
 
 ## ReRan Tests
 
 
-<img width="509" alt="Screenshot 2024-03-11 at 3 41 36 PM" src="https://github.com/ads2003/cse15l-lab-reports/assets/156348741/df245edd-fae0-4b1c-b225-4f8d79298d84">
+<img width="509" alt="Screenshot 2024-03-11 at 3 41 36 PM" src="https://github.com/ads2003/cse15l-lab-reports/assets/156348741/df245edd-fae0-4b1c-b225-4f8d79298d84">   
 
 
-## commit and push:
+## commit and push 
 
 
 <img width="731" alt="Screenshot 2024-03-11 at 3 45 45 PM" src="https://github.com/ads2003/cse15l-lab-reports/assets/156348741/e086258a-a0fb-4149-aa74-25cfd0e562cd">
