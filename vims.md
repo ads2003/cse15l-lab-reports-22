@@ -14,10 +14,11 @@ https://github.com/ads2003/lab7 <space> <enter>
 ## Tests ran
 
 <img width="1053" alt="Screenshot 2024-03-11 at 3 36 59 PM" src="https://github.com/ads2003/cse15l-lab-reports/assets/156348741/b244930e-4814-4eb6-bf8e-1e51b15cedc7">
+
 I compiled and ran the tests using Java and Javac, but they failed.
  Keys pressed: javac
 <space> -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java <enter> java
-<space> -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar
+<space> -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar. 
 
 ## Using vim for Editing the code
 
@@ -45,7 +46,6 @@ Pressed keys: <esc><:wq><enter> I enter command mode by using the esc key, which
 
 
 <img width="731" alt="Screenshot 2024-03-11 at 3 45 45 PM" src="https://github.com/ads2003/cse15l-lab-reports/assets/156348741/e086258a-a0fb-4149-aa74-25cfd0e562cd">
-
 
 I reinitialized the repository by using the git init command first, then I added the updated file to the repository by using the git add ListExamples.java command and pressing <enter>. Subsequently, I utilised the git commit -m programme and hit <enter> to commit the modifications together with a note indicating "Fixed testMerge2". Finally, I pushed the modifications to the main branch by using the git push origin main command and pressing <enter>. Hit the following keys: git <space> init <enter> git <space> add <space> <enter> ListExamples.java commit <space> on git Enter -m space "Fixed testMerge2" and then git, push, origin, and main.
 
