@@ -40,7 +40,7 @@ Pressed keys: <esc><:wq><enter> I enter command mode by using the esc key, which
 <img width="509" alt="Screenshot 2024-03-11 at 3 41 36 PM" src="https://github.com/ads2003/cse15l-lab-reports/assets/156348741/df245edd-fae0-4b1c-b225-4f8d79298d84">
 
 
-## commit and push
+## commit and push:
 
 
 <img width="731" alt="Screenshot 2024-03-11 at 3 45 45 PM" src="https://github.com/ads2003/cse15l-lab-reports/assets/156348741/e086258a-a0fb-4149-aa74-25cfd0e562cd">
