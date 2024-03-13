@@ -4,7 +4,7 @@
 
 <img width="793" alt="Screenshot 2024-03-11 at 3 32 15 PM" src="https://github.com/ads2003/cse15l-lab-reports/assets/156348741/3ad073b3-f1d8-42fe-82c5-65aa813b065f">
 
-**I entered ieng6 using the ssh command. ssh <space> ads007@ieng6.ucsd.edu <enter> Keys pushed**
+I entered ieng6 using the ssh command. ssh <space> ads007@ieng6.ucsd.edu <enter> Keys pushed
 
 ## Clone Fork repository 
 I used my GitHub account's SSH URL and the git clone command to clone the repository's fork. 
