@@ -38,6 +38,8 @@ Pressed keys: esc wq enter I enter command mode by using the esc key, which is f
 
 <img width="509" alt="Screenshot 2024-03-11 at 3 41 36 PM" src="https://github.com/ads2003/cse15l-lab-reports/assets/156348741/df245edd-fae0-4b1c-b225-4f8d79298d84">   
 
+I used the bash test.sh command to execute the test cases again to make sure all the tests
+passed. Keys pressed: bash <space> test.sh <enter>
 
 ## commit and push 
 
