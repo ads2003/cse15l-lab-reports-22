@@ -19,3 +19,5 @@ I compiled and ran the tests using Java and Javac, but they failed.
 <space> -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java <enter> java
 <space> -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar
 
+## Using vim for editing the code
+
