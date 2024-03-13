@@ -30,4 +30,19 @@ get to the number 1 in index1 so that I could change it to 2.
 Pressed keys: <esc><:wq><enter> I enter command mode by using the esc key, which is followed by the <:wq> key, which writes and ends vim, and the <enter> key, which essentially saves the changes made to the file and exits
 
 
-<img width="304" alt="Screenshot 2024-03-11 at 3 40 52 PM" src="https://github.com/ads2003/cse15l-lab-reports/assets/156348741/2fa11d7b-2fdc-4ae7-b2e4-19f3451846e6">   
+<img width="304" alt="Screenshot 2024-03-11 at 3 40 52 PM" src="https://github.com/ads2003/cse15l-lab-reports/assets/156348741/2fa11d7b-2fdc-4ae7-b2e4-19f3451846e6"> 
+
+
+## ReRan Tests
+
+
+<img width="509" alt="Screenshot 2024-03-11 at 3 41 36 PM" src="https://github.com/ads2003/cse15l-lab-reports/assets/156348741/df245edd-fae0-4b1c-b225-4f8d79298d84">   
+
+
+## commit and push 
+
+
+<img width="731" alt="Screenshot 2024-03-11 at 3 45 45 PM" src="https://github.com/ads2003/cse15l-lab-reports/assets/156348741/e086258a-a0fb-4149-aa74-25cfd0e562cd">
+
+I reinitialized the repository by using the git init command first, then I added the updated file to the repository by using the git add ListExamples.java command and pressing <enter>. Subsequently, I utilised the git commit -m programme and hit <enter> to commit the modifications together with a note indicating "Fixed testMerge2". Finally, I pushed the modifications to the main branch by using the git push origin main command and pressing <enter>. Hit the following keys: git <space> init <enter> git <space> add <space> <enter> ListExamples.java commit <space> on git Enter -m space "Fixed testMerge2" and then git, push, origin, and main.
+
