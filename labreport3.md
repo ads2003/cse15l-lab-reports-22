@@ -411,4 +411,5 @@ biomed/1472-684X-1-5.txt:          time), is not evidence of addiction, [ 30 ] a
 biomed/1472-684X-1-5.txt:          unintended effect), or cause addiction are not relevant.
 ```
 ## Sources used
-I used google and Chat gpt in order to find the various types of grep commands and their implementations.
+
+*I looked into the different grep command kinds and their implementations using Chat GPT*
